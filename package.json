@@ -2,9 +2,10 @@
     "name": "python-development-extension-pack",
     "displayName": "Python Development Extension Pack for VS Code",
     "description": "Essential extensions for python development",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "publisher": "RoyEshel",
     "license": "MIT",
+    "icon": "icon.png",
     "repository": {
 	    "type": "git",
 		"url": "https://github.com/RoyEshel/Python-Development-Extension-Pack"
