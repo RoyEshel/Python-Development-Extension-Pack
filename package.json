@@ -1,0 +1,28 @@
+{
+    "name": "python-development-extension-pack",
+    "displayName": "Python Development Extension Pack",
+    "description": "Essential extensions for python development",
+    "version": "0.0.1",
+    "publisher": "RoyEshel",
+    "license": "MIT",
+    "repository": {
+	    "type": "git",
+		"url": "https://github.com/RoyEshel/Python-Development-Extension-Pack"
+	},
+    "engines": {
+        "vscode": "^1.91.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "ms-python.black-formatter",
+        "ms-python.pylint",
+        "ms-python.isort",
+        "donjayamanne.python-environment-manager",
+        "KevinRose.vsc-python-indent"
+    ]
+}
