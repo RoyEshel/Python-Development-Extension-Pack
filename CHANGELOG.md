@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "python-development-extension-pack" extension pack will be documented in this file.
+## Extensions added to the pack
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+### v1.0.0
+- `Python` - `Microsoft`
+- `Pylance` - `Microsoft`
+- `Python Debugger` - `Microsoft`
+- `Black Formatter` - `Microsoft`
+- `Pylint` - `Microsoft`
+- `isort` - `Microsoft`
+- `Python Environment Manager` - `Don Jayamanne`
+- `Python Indent` - `Kevin Rose`
